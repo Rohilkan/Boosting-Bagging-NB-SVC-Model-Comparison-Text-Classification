@@ -1,9 +1,14 @@
 # Boosting-Bagging-SVC-Model-Comparison-Text-Classification
 
-Comparing boosting and bagging methods (Adaboost, Gradient Boosting, Random Forest) using various libraries (Scikit-Learn, XGBoost, CatBoost) with support vector machines and naive bayes classifiers for text classification on IMDb movie review data.
+NLP text classification on movie review data using various ML models to predict IMDb ratings on 1-10 scale.
 
 Goal:
-    Compare effectiveness of boosting/bagging ensemble model implementations using two metrics (speed and accuracy score) and compare discovered best model against Scikit-Learn's multinomial naive bayes and support vector classifiers - models more conventionally fit for text classification.
+    Comparing effectiveness of boosting/bagging ensemble model implementations using two metrics (speed and accuracy score) and comparing discovered best model against multinomial naive bayes and support vector classifiers - models more conventionally fit for text classification.
+
+Libraries:
+- Scikit-Learn
+- XGBoost
+- CatBoost
 
 Models:
 - Scikit-learn:
@@ -13,8 +18,8 @@ Models:
     - `AdaBoost Classifier`
     - `Gradient Boosting Classifier`
     - `Histogram Gradient Boosting`
-`XGBoost Classifier`
-`CatBoost Classifier`
+- `XGBoost Classifier`
+- `CatBoost Classifier`
 
 Data Source:
     https://ai.stanford.edu/~amaas/data/sentiment/
