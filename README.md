@@ -1,6 +1,7 @@
 # Boosting-Bagging-SVC-Model-Comparison-Text-Classification
 
-NLP text classification on movie review data using various ML models to predict IMDb ratings on 1-10 scale.
+Overview:
+    NLP text classification on movie review data using various ML models to predict IMDb ratings on 1-10 scale.
 
 Goal:
     Comparing effectiveness of boosting/bagging ensemble model implementations using two metrics (speed and accuracy score) and comparing discovered best model against multinomial naive bayes and support vector classifiers - models more conventionally fit for text classification.
