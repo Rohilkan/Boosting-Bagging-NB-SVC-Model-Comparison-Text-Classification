@@ -20,7 +20,7 @@ Models:
 - `CatBoost Classifier`
 
 Data Source:
-- https://ai.stanford.edu/~amaas/data/sentiment/
+    - https://ai.stanford.edu/~amaas/data/sentiment/
 
 - Review data read in as `.txt` segmented by **positive** (< 5) and **negative** (> 5) ratings and mapped to ratings nested in filenames
 - Text reviews **TFIDF vectorized** yielding sparse matrix **bag of words**
