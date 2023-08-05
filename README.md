@@ -1,7 +1,7 @@
 # Ensemble-NB-SVC-Model-Comparison-Text-Classification
 
 Goal:
-    Comparing effectiveness of boosting/bagging ensemble model implementations using two metrics (speed and accuracy score) and comparing discovered best model against multinomial naive bayes and support vector classifiers - models more conventionally fit for text classification.
+    Comparing **effectiveness** of **boosting/bagging ensemble model implementations** using two metrics (speed and accuracy score) and comparing discovered best model against **multinomial naive bayes** and **support vector classifier** models - algorithms more conventionally fit for text classification.
 
 Libraries:
 - Scikit-Learn
